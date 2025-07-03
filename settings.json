@@ -6,9 +6,10 @@
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "VanThienPhat123.aternos.me
+",
     "port": 25565,
-    "version": "1.19.3"
+    "version": "1.19"
   },
 
   "position": {
